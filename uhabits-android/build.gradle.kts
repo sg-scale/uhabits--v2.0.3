@@ -102,7 +102,7 @@ dependencies {
     androidTestImplementation("io.ktor:ktor-jackson:$ktorVersion")
     androidTestImplementation("androidx.annotation:annotation:1.2.0")
     androidTestImplementation("androidx.test.ext:junit:1.1.2")
-    androidTestImplementation("androidx.test.uiautomator:uiautomator:2.2.0")
+    androidTestImplementation("androidx.test.uiautomator:uiautomator:2.4.1")
     androidTestImplementation("androidx.test:rules:1.3.0")
     androidTestImplementation("com.nhaarman.mockitokotlin2:mockito-kotlin:2.2.0")
     compileOnly("javax.annotation:jsr250-api:1.0")
